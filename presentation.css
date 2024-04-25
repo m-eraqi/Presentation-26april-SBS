@@ -504,3 +504,15 @@ body {
   left: auto;
   right: 5px;
 }
+
+.bet{
+  cursor: pointer;
+  color: #fff;
+  font-size: 100px;
+}
+
+.ppj{
+  color: #fff;
+  font-size: xx-large;
+  font-weight: bold;
+}
