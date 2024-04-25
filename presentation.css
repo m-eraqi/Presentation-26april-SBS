@@ -179,10 +179,12 @@ body {
 }
 
 .el__text .img {
-  width: 900px;
+  width: 800px;
   position: absolute;
-  top: 200px;
-  right: 150px;
+  top: 100px;
+  right: 80px;
+  border-radius: 20%;
+  filter: drop-shadow(20px 20px 10px black)
 }
 .el__close-btn {
   z-index: -1;
